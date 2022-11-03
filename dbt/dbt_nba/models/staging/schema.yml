@@ -1,0 +1,16 @@
+
+version: 2
+
+models:
+  - name: game_box_scores
+    description: "Transforms team_box_scores table"
+    columns:
+      - name: id
+      - name: game_date
+      - name: visitor_team
+      - name: visitor_points
+      - name: home_team
+      - name: home_points
+      - name: overtime
+      - name: attendance
+      - name: arena

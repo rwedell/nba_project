@@ -40,4 +40,6 @@ models:
     
     staging:
       +materialized: table
-      +enabled: false
+      +enabled: true
+      +database: nba
+      +schema: staging
