@@ -1,0 +1,31 @@
+team_name,conference,division
+Philadelphia 76ers,east,atlantic
+New York Knicks,east,atlantic
+Toronto Raptors,east,atlantic
+Boston Celtics,east,atlantic
+Brooklyn Nets,east,atlantic
+Chicago Bulls,east,central
+Cleveland Cavaliers,east,central
+Milwaukee Bucks,east,central
+Detroit Pistons,east,central
+Indiana Pacers,east,central
+Orlando Magic,east,southeast
+Washington Wizards,east,southeast
+Charlotte Hornets,east,southeast
+Atlanta Hawks,east,southeast
+Miami Heat,east,southeast
+Oklahoma City Thunder,west,northwest
+Denver Nuggets,west,northwest
+Portland Trail Blazers,west,northwest
+Utah Jazz,west,northwest
+Minnesota Timberwolves,west,northwest
+Los Angeles Lakers,west,pacific
+Los Angeles Clippers,west,pacific
+Phoenix Suns,west,pacific
+Sacramento Kings,west,pacific
+Golden State Warriors,west,pacific
+Houston Rockets,west,southwest
+New Orleans Pelicans,west,southwest
+Dallas Mavericks,west,southwest
+San Antonio Spurs,west,southwest
+Memphis Grizzlies,west,southwest
