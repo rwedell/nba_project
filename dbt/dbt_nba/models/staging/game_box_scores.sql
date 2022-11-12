@@ -11,8 +11,7 @@ with game_box_scores as (
         overtime is not null as overtime,
         attendance,
         arena 
-from team_box_scores
+from public.team_box_scores
 )
 
-select *
-from game_box_scores
+select * from game_box_scores
