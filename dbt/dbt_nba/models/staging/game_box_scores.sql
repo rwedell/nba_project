@@ -12,6 +12,7 @@ with game_box_scores as (
         attendance,
         arena 
 from public.team_box_scores
+
 )
 
 select * from game_box_scores
